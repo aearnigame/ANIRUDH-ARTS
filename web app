@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ANIRUDH ARTS</title>
+  <style>
+    body, html {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      overflow: hidden;
+      font-family: Arial, sans-serif;
+    }
+    .header {
+      background-color: #6200ea;
+      color: white;
+      text-align: center;
+      padding: 10px 0;
+      font-size: 24px;
+      font-weight: bold;
+    }
+    iframe {
+      width: 100%;
+      height: calc(100% - 50px);
+      border: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="header">ANIRUDH ARTS</div>
+  <iframe src="https://superprofile.bio/vp/667d053551a2fd00137db2a2" allowfullscreen></iframe>
+</body>
+</html>
